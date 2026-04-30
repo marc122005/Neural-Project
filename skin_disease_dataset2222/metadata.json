@@ -1,0 +1,1290 @@
+[
+  {
+    "url": "https://dermnetnz.org/assets/images/home-page-pro-waitlist.webp",
+    "description": "Eczema – image from https://dermnetnz.org/topics/atopic-dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0000.webp"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/SCORAD/atopic-dryness-3.jpg",
+    "description": "Dry atopic dermatitis in an extensor pattern",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0001.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/SCORAD/atopic-oozy-2.jpg",
+    "description": "Acute flexural atopic dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0002.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/atopic-eczema-02.jpg",
+    "description": "Chronic flexural atopic dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0003.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/at-derm7.jpg",
+    "description": "Infantile atopic dermatitis on the cheeks",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0004.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/flexural-eczema22.jpg",
+    "description": "Flexural atopic dermatitis in childhood",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0005.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/SCORAD/atopic-excoriation-2.jpg",
+    "description": "Excoriated lichenified atopic dermatitis on the lower back in an adult",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0006.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/at-derm1.jpg",
+    "description": "Infantile atopic dermatitis, face",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0007.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/s/atopic26.jpg",
+    "description": "Infantile atopic dermatitis, hand",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0008.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/atopic32.jpg",
+    "description": "Infantile atopic dermatitis, trunk",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0009.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/s/eapsimplex1.jpg",
+    "description": "Pruritic atopic dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0010.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/site-age-specific/s/cheilatop2.jpg",
+    "description": "Childhood atopic dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0011.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/site-age-specific/s/eyelid-24.jpg",
+    "description": "Eyelid atopic eczema",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0012.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/atopic-100.jpg",
+    "description": "Atopic dermatitis of neck",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0013.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/doctors/dermatitis/images/ecz-atopic19.jpg",
+    "description": "Atopic dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0014.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/scorad1.jpg",
+    "description": "Atopic hand dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0015.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/flexural-eczema27.jpg",
+    "description": "Lichenified flexural atopic dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0016.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/nipple-eczema-08.jpg",
+    "description": "Atopic dermatitis, nipples",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0017.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/atopic3.jpg",
+    "description": "Eyelid contact dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0018.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/atopic-eczema-01.jpg",
+    "description": "Atopic eczema",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0019.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/madarosis-13.jpg",
+    "description": "Clues to atopic dermatitis in adults",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0020.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/atopic2.jpg",
+    "description": "Clues to atopic dermatitis in adults",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0021.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/doctors/dermatitis/images/ecz-lich8.jpg",
+    "description": "Clues to atopic dermatitis in adults",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0022.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection-O/Atopic-dermatitis-skin-of-colour/atopic-dermatitis-skin-of-colour-00019.jpg",
+    "description": "Patches of atopic dermatitis in skin of colour",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0023.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection-O/Atopic-dermatitis-skin-of-colour/atopic-dermatitis-skin-of-colour-00020.jpg",
+    "description": "Dermoscopy of atopic dermatitis in skin of colour",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0024.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/atopic-dermatitis-1.jpg",
+    "description": "Follicular pattern of atopic dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0025.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/systemic/w/itchy-skin-41.jpg",
+    "description": "Atopic hand dermatitis and follicular pattern on the trunk",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0026.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/atopic-eczema-black-skin.jpg",
+    "description": "Hyperpigmentation due to atopic dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0027.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/SCORAD/atopic-red-0.jpg",
+    "description": "Postinflammatory hypopigmentation due to atopic dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0028.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/atopic44.jpg",
+    "description": "Lichenification of atopic dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0029.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/prurigo-01.jpg",
+    "description": "Atopic dermatitis in skin of colour",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0030.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/eczema-herpticum09.jpg",
+    "description": "Eczema herpeticum",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0031.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/at-mol.jpg",
+    "description": "Molluscum contagiosum arising in atopic dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0032.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/atopic1.jpg",
+    "description": "Staphylococcal infection of atopic dermatitis",
+    "source_page": "https://dermnetnz.org/topics/atopic-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0033.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/palm-derm.jpg",
+    "description": "Palmar dermatitis",
+    "source_page": "https://dermnetnz.org/topics/hand-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0034.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection-O/Hand-dermatitis/hand-dermatitis-00032.jpg",
+    "description": "Hyperkeratotic palmar eczema",
+    "source_page": "https://dermnetnz.org/topics/hand-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0035.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection-O/Hand-dermatitis/hand-dermatitis-00022.jpg",
+    "description": "What is hand dermatitis?",
+    "source_page": "https://dermnetnz.org/topics/hand-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0036.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection-O/Hand-dermatitis/hand-dermatitis-00020.jpg",
+    "description": "Diffuse scale and redness on the palms due to eczema",
+    "source_page": "https://dermnetnz.org/topics/hand-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0037.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/infectderm2.jpg",
+    "description": "Infected hand dermatitis",
+    "source_page": "https://dermnetnz.org/topics/hand-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0038.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/hand-dermatitis/2824.jpg",
+    "description": "Hand dermatitis on the dorsal fingers in an atopic boy",
+    "source_page": "https://dermnetnz.org/topics/hand-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0039.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/patch1.jpg",
+    "description": "What is the differential diagnosis for hand dermatitis?",
+    "source_page": "https://dermnetnz.org/topics/hand-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0040.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/patch2.jpg",
+    "description": "What is the differential diagnosis for hand dermatitis?",
+    "source_page": "https://dermnetnz.org/topics/hand-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0041.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/patch3.jpg",
+    "description": "What is the differential diagnosis for hand dermatitis?",
+    "source_page": "https://dermnetnz.org/topics/hand-dermatitis",
+    "disease": "eczema",
+    "local_path": "skin_disease_dataset2222\\eczema\\eczema_0042.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/ps4.jpg",
+    "description": "Small plaques of psoriasis appear almost like rain drops splashed over the skin",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0000.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/guttate-psoriasis/2763.jpg",
+    "description": "Close up of guttate psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0001.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/guttate-psoriasis/2754.jpg",
+    "description": "Post-inflammatory hypopigmentation as guttate psoriasis is resolving",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0002.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/ps3.jpg",
+    "description": "Well demarcated plaques with silvery scale in chronic plaque psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0003.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/ps6.jpg",
+    "description": "Chronic plaque psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0004.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/chronic-plaque-psoriasis-019.jpg",
+    "description": "Close up of well demarcated plaques with silvery scale in chronic plaque psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0005.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/a/flexural-psoriasis.jpg",
+    "description": "Well demarcated salmon pink erythema which extends to the apex of the skin fold due to flexural psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0006.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/genital-psoriasis-12.jpg",
+    "description": "Well demarcated salmon pink erythema which extends to the apex of the skin fold and into the natal cleft due to flexural psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0007.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/psorkai2.jpg",
+    "description": "Axillary psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0008.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/a/scalp-psoriasis.jpg",
+    "description": "Well demarcated plaques of scalp psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0009.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/w/scalp-psoriasis-01.jpg",
+    "description": "Scalp psoriasis often extends beyond the hair line",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0010.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/w/scalp-psoriasis-03.jpg",
+    "description": "Adherent scale in scalp psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0011.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/w/sebopsoriasis-1.jpg",
+    "description": "Sebopsoriasis of ear",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0012.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/w/sebopsoriasis-3.jpg",
+    "description": "Sebopsoriasis of chest",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0013.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/s/sebopsorkorv.jpg",
+    "description": "Sebopsoriasis affecting the retroauricular skin",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0014.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/ppps14.jpg",
+    "description": "Hyperkeratosis of the soles and heels due to psoriasis - painful fissuring is often a problem",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0015.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/ppps16.jpg",
+    "description": "Palmar plaque psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0016.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/ppps42.jpg",
+    "description": "Hyperkeratosis of the soles and heels due to psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0017.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/hair-nails-sweat/a/nail-psoriasis-pitting-oil-spots.jpg",
+    "description": "Nail psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0018.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/psoriatic-nail-037.jpg",
+    "description": "Onycholysis, proximal yellow band and nail plate splitting due to nail unit psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0019.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/psoriatic-nail-004.jpg",
+    "description": "Onycholiasis (separation of the plate from the bed) due to psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0020.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/doctors/emergencies/images/ps-e1.jpg",
+    "description": "Erythrodermic psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0021.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/doctors/scaly-rashes/images/ps-e2.jpg",
+    "description": "Confluent redness affecting more than 80% of the body – erythrodermic psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0022.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/ps-e4.jpg",
+    "description": "Close up of the confluent redness and scale in erythrodermic psoriasis",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0023.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection-O/Psoriasis-in-skin-of-colour/plaque-psoriasis-skin-of-colour-00001.jpg",
+    "description": "Chronic plaque psoriasis in skin of colour",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0024.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection-O/Psoriasis-in-skin-of-colour/plaque-psoriasis-skin-of-colour-00002.jpg",
+    "description": "Chronic plaque psoriasis in skin of colour",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0025.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection-O/Psoriasis-in-skin-of-colour-v2/psoriasis-00055.jpg",
+    "description": "Small plaque psoriasis with prominent scale in skin of colour",
+    "source_page": "https://dermnetnz.org/topics/psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0026.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/guttate-psoriasis/2755.jpg",
+    "description": "Guttate psoriasis",
+    "source_page": "https://dermnetnz.org/topics/guttate-psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0027.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/guttate-psoriasis/2752.jpg",
+    "description": "Guttate psoriasis",
+    "source_page": "https://dermnetnz.org/topics/guttate-psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0028.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/guttate-psoriasis/2764.jpg",
+    "description": "Guttate psoriasis",
+    "source_page": "https://dermnetnz.org/topics/guttate-psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0029.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/guttate-psoriasis.jpg",
+    "description": "Guttate psoriasis",
+    "source_page": "https://dermnetnz.org/topics/guttate-psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0030.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/s/psorgutt.jpg",
+    "description": "What are the clinical features of guttate psoriasis?",
+    "source_page": "https://dermnetnz.org/topics/guttate-psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0031.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/scaly/psorgutt2.jpg",
+    "description": "What are the clinical features of guttate psoriasis?",
+    "source_page": "https://dermnetnz.org/topics/guttate-psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0032.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Scalp-psoriasis/scalp-psoriasis-0011.jpg",
+    "description": "Scalp psoriasis extending beyond the anterior hairline",
+    "source_page": "https://dermnetnz.org/topics/scalp-psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0033.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Scalp-psoriasis/scalp-psoriasis-0010.jpg",
+    "description": "Confluent psoriasis in the scalp extending anteriorly from the hairline",
+    "source_page": "https://dermnetnz.org/topics/scalp-psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0034.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Scalp-psoriasis/scalp-psoriasis-0025.jpg",
+    "description": "Marked thick scaling in psoriasis of the scalp",
+    "source_page": "https://dermnetnz.org/topics/scalp-psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0035.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Scalp-psoriasis/scalp-psoriasis-0007.jpg",
+    "description": "Extensive scaling over the parietal scalp due to psoriasis. There is psoriasis also in the ears and around the hair line",
+    "source_page": "https://dermnetnz.org/topics/scalp-psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0036.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Scalp-psoriasis/scalp-psoriasis-0024.jpg",
+    "description": "Marked scaling in psoriasis of the scalp",
+    "source_page": "https://dermnetnz.org/topics/scalp-psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0037.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Pityriasis-amiantacea/pityriasis-amiantacea-0008.jpg",
+    "description": "Severe scalp psoriasis with areas of pityriasis amianticea",
+    "source_page": "https://dermnetnz.org/topics/scalp-psoriasis",
+    "disease": "psoriasis",
+    "local_path": "skin_disease_dataset2222\\psoriasis\\psoriasis_0038.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0034.jpg",
+    "description": "Vitiligo over the knuckles - keobnerisation due to trauma often localises vitiligo",
+    "source_page": "https://dermnetnz.org/topics/vitiligo",
+    "disease": "vitiligo",
+    "local_path": "skin_disease_dataset2222\\vitiligo\\vitiligo_0000.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0008.jpg",
+    "description": "Symmetrical wrist vitiligo - a common location",
+    "source_page": "https://dermnetnz.org/topics/vitiligo",
+    "disease": "vitiligo",
+    "local_path": "skin_disease_dataset2222\\vitiligo\\vitiligo_0001.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0003.jpg",
+    "description": "Vitiligo over the back and elbows",
+    "source_page": "https://dermnetnz.org/topics/vitiligo",
+    "disease": "vitiligo",
+    "local_path": "skin_disease_dataset2222\\vitiligo\\vitiligo_0002.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0001.jpg",
+    "description": "Vitiligo on the lid with poliosis of the lashes",
+    "source_page": "https://dermnetnz.org/topics/vitiligo",
+    "disease": "vitiligo",
+    "local_path": "skin_disease_dataset2222\\vitiligo\\vitiligo_0003.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0019.jpg",
+    "description": "Vitiligo on the lips",
+    "source_page": "https://dermnetnz.org/topics/vitiligo",
+    "disease": "vitiligo",
+    "local_path": "skin_disease_dataset2222\\vitiligo\\vitiligo_0004.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0002.jpg",
+    "description": "Follicular repigmentation in a patch of vitiligo",
+    "source_page": "https://dermnetnz.org/topics/vitiligo",
+    "disease": "vitiligo",
+    "local_path": "skin_disease_dataset2222\\vitiligo\\vitiligo_0005.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0029.jpg",
+    "description": "Extensive symmetrical facial vitiligo",
+    "source_page": "https://dermnetnz.org/topics/vitiligo",
+    "disease": "vitiligo",
+    "local_path": "skin_disease_dataset2222\\vitiligo\\vitiligo_0006.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0015.jpg",
+    "description": "Vitiligo around the hairline of a Samoan woman",
+    "source_page": "https://dermnetnz.org/topics/vitiligo",
+    "disease": "vitiligo",
+    "local_path": "skin_disease_dataset2222\\vitiligo\\vitiligo_0007.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/viral-wart-07.jpg",
+    "description": "Common warts",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0000.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/plane-warts.jpg",
+    "description": "Plane warts",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0001.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/viral-wart-22.jpg",
+    "description": "Filliform wart",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0002.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/wart27.jpg",
+    "description": "Pseudo-koebnerisation of warts",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0003.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/subung-wart.jpg",
+    "description": "Subungual wart",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0004.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/s/wart24.jpg",
+    "description": "Subungual wart",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0005.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/verrucous.jpg",
+    "description": "Common warts (verruca vulgaris)",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0006.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/viral-wart-15.jpg",
+    "description": "Verruca vulgaris on a thumb",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0007.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/wart7.jpg",
+    "description": "Common warts (verruca vulgaris)",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0008.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/viral-wart-18.jpg",
+    "description": "Plantar warts, myrmecial type (verruca plantaris)",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0009.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/wart11.jpg",
+    "description": "Plantar warts, myrmecial type (verruca plantaris)",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0010.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/s/wart12.jpg",
+    "description": "Plantar warts",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0011.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/verruca.jpg",
+    "description": "Plantar warts, mosaic type",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0012.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/wart6.jpg",
+    "description": "Plantar warts, mosaic type",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0013.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/wart5.jpg",
+    "description": "Plantar warts, mosaic type",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0014.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/wart1.jpg",
+    "description": "Plane warts (verruca plana)",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0015.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/wart10.jpg",
+    "description": "Verruca plana in the beard area spread by shaving",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0016.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/wart4.jpg",
+    "description": "Plane warts (verruca plana)",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0017.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/viral-wart-03.jpg",
+    "description": "Filiform and digitate warts",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0018.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/filiform.jpg",
+    "description": "Filiform and digitate warts",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0019.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/viral-wart-24.jpg",
+    "description": "Filiform wart",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0020.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/s/wart25.jpg",
+    "description": "Periungual warts causing nail dystrophy",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0021.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/hair-nails-sweat/a/ungueal-wart.jpg",
+    "description": "Ungual wart",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0022.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/s/wart21.jpg",
+    "description": "Periungual warts causing nail dystrophy",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0023.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/viral/s/wart14.jpg",
+    "description": "Diagnosis of viral warts",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0024.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/2010-quizzes/2010-June-1-verrucous.jpg",
+    "description": "Dermoscopy: viral wart",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0025.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/2010-quizzes/2010-October-3-viral-wart.jpg",
+    "description": "Dermoscopy: viral wart",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0026.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/doctors/viral-infections/images/cryo.jpg",
+    "description": "Cryotherapy for warts",
+    "source_page": "https://dermnetnz.org/topics/viral-warts",
+    "disease": "warts",
+    "local_path": "skin_disease_dataset2222\\warts\\warts_0027.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Impetigo/impetigo-0010.jpg",
+    "description": "Honey-coloured crusts on the chin in impetigo",
+    "source_page": "https://dermnetnz.org/topics/impetigo",
+    "disease": "impetigo",
+    "local_path": "skin_disease_dataset2222\\impetigo\\impetigo_0000.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Impetigo/impetigo-0004.jpg",
+    "description": "'Kissing lesions' on both sides of the axilla in impetigo",
+    "source_page": "https://dermnetnz.org/topics/impetigo",
+    "disease": "impetigo",
+    "local_path": "skin_disease_dataset2222\\impetigo\\impetigo_0001.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Impetigo/impetigo-0009.jpg",
+    "description": "Perioral honey-coloured crusts in impetigo",
+    "source_page": "https://dermnetnz.org/topics/impetigo",
+    "disease": "impetigo",
+    "local_path": "skin_disease_dataset2222\\impetigo\\impetigo_0002.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Impetigo/impetigo-0002.jpg",
+    "description": "Widespread bullous impetigo over the back",
+    "source_page": "https://dermnetnz.org/topics/impetigo",
+    "disease": "impetigo",
+    "local_path": "skin_disease_dataset2222\\impetigo\\impetigo_0003.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Impetigo/impetigo-0003.jpg",
+    "description": "An intact blister and erosions in bullous impetigo",
+    "source_page": "https://dermnetnz.org/topics/impetigo",
+    "disease": "impetigo",
+    "local_path": "skin_disease_dataset2222\\impetigo\\impetigo_0004.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Impetigo/impetigo-0008.jpg",
+    "description": "Honey-coloured crusted lesions in facial impetigo",
+    "source_page": "https://dermnetnz.org/topics/impetigo",
+    "disease": "impetigo",
+    "local_path": "skin_disease_dataset2222\\impetigo\\impetigo_0005.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Impetigo/impetigo-0006.jpg",
+    "description": "Crusted weepy lesions in facial impetigo",
+    "source_page": "https://dermnetnz.org/topics/impetigo",
+    "disease": "impetigo",
+    "local_path": "skin_disease_dataset2222\\impetigo\\impetigo_0006.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Impetigo/impetigo-0005.jpg",
+    "description": "Impetigo on the leg",
+    "source_page": "https://dermnetnz.org/topics/impetigo",
+    "disease": "impetigo",
+    "local_path": "skin_disease_dataset2222\\impetigo\\impetigo_0007.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Impetigo/impetigo-0007.jpg",
+    "description": "Facial impetigo",
+    "source_page": "https://dermnetnz.org/topics/impetigo",
+    "disease": "impetigo",
+    "local_path": "skin_disease_dataset2222\\impetigo\\impetigo_0008.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/acne/resampled-bak/FitWzY0MCw0ODBd/comed1.jpg",
+    "description": "Comedonal acne",
+    "source_page": "https://dermnetnz.org/topics/acne",
+    "disease": "acne",
+    "local_path": "skin_disease_dataset2222\\acne\\acne_0000.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/acne/acne1.jpg",
+    "description": "Acne vulgaris",
+    "source_page": "https://dermnetnz.org/topics/acne",
+    "disease": "acne",
+    "local_path": "skin_disease_dataset2222\\acne\\acne_0001.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/acne/conglob2.jpg",
+    "description": "Nodulocystic acne",
+    "source_page": "https://dermnetnz.org/topics/acne",
+    "disease": "acne",
+    "local_path": "skin_disease_dataset2222\\acne\\acne_0002.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/acne/w/acne-mild.jpg",
+    "description": "Severe acne",
+    "source_page": "https://dermnetnz.org/topics/acne-vulgaris",
+    "disease": "acne",
+    "local_path": "skin_disease_dataset2222\\acne\\acne_0003.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/acne/acne4.jpg",
+    "description": "Moderate acne",
+    "source_page": "https://dermnetnz.org/topics/acne-vulgaris",
+    "disease": "acne",
+    "local_path": "skin_disease_dataset2222\\acne\\acne_0004.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/acne/s/acne6.jpg",
+    "description": "Severe acne",
+    "source_page": "https://dermnetnz.org/topics/acne-vulgaris",
+    "disease": "acne",
+    "local_path": "skin_disease_dataset2222\\acne\\acne_0005.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/manualthumbnails/lesions/img/mel4-sm.jpg",
+    "description": "Superficial spreading malignant melanoma - irregular border, variable pigmentation, and areas of clinical regression",
+    "source_page": "https://dermnetnz.org/topics/melanoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0000.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/manualthumbnails/doctors/dermoscopy-course/images/mel-irreg2-sm.jpg",
+    "description": "Superficial spreading malignant melanoma - an enlarging pigmented lesion with variable pigmentation, irregular edge, and asymmetry",
+    "source_page": "https://dermnetnz.org/topics/melanoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0001.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/doctors/lesions/images/acrolent.jpg",
+    "description": "Acral lentiginous malignant melanoma - irregular edge, with variable pigmentation, asymmetry and areas of regression on the heel",
+    "source_page": "https://dermnetnz.org/topics/melanoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0002.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/melanoma-abcds-23.jpg",
+    "description": "Nodular malignant melanoma in a vertical growth phase - rapidly enlarging scaly pigmented nodule",
+    "source_page": "https://dermnetnz.org/topics/melanoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0003.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/alm-nail-1.jpg",
+    "description": "Irregular pigmented longitudinal bands in melanoma of the nail unit",
+    "source_page": "https://dermnetnz.org/topics/melanoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0004.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/amelanotic-melanoma-018.jpg",
+    "description": "Amelanotic melanoma arising within pigmented melanoma",
+    "source_page": "https://dermnetnz.org/topics/melanoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0005.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/amelanotic-melanoma-014.jpg",
+    "description": "Amelanotic subungal melanoma - a red lesion arising from the nail fold that has produced destruction of the nail plate",
+    "source_page": "https://dermnetnz.org/topics/melanoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0006.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/metastatic-melanoma-12.jpg",
+    "description": "Multiple blue nodules of cutaneous metastatic malignant melanoma",
+    "source_page": "https://dermnetnz.org/topics/melanoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0007.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/12-pubic-melanoma-m.jpg",
+    "description": "A superficial malignant melanoma - irregular and notched margin, variable and irregular pigmentation in an itchy and enlarging pigmented lesion",
+    "source_page": "https://dermnetnz.org/topics/melanoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0008.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/bcc1.jpg",
+    "description": "Nodular basal cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0009.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Basal-cell-carcinoma/basal-cell-carcinoma-0019.jpg",
+    "description": "Nodular basal cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0010.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/bcc-104.jpg",
+    "description": "Nodular basal cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0011.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/bcc-105.jpg",
+    "description": "Nodular basal cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0012.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/bcc3.jpg",
+    "description": "Basal cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0013.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/bcc-100.jpg",
+    "description": "Superficial basal cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0014.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/bcc-101.jpg",
+    "description": "Superficial basal cell carcinoma, face",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0015.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/bcc-102.jpg",
+    "description": "Superficial basal cell carcinoma, back",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0016.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/bcc5.jpg",
+    "description": "Morphoeic basal cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0017.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/bcc-107.jpg",
+    "description": "Morphoeic basal cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0018.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/bcc-108.jpg",
+    "description": "Morphoeic basal cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0019.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/bcc-109.jpg",
+    "description": "Morphoeic basal cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0020.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/bcc2.jpg",
+    "description": "Basal cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0021.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/basisquamous-01.jpg",
+    "description": "Basisquamous cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0022.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/basisquamous-02.jpg",
+    "description": "Basisquamous cell carcinoma",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0023.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/recurrent-bcc-01.jpg",
+    "description": "Recurrent BCC",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0024.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/recurrent-bcc-02.jpg",
+    "description": "Recurrent BCC",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0025.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/recurrent-bcc-03.jpg",
+    "description": "Recurrent BCC",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0026.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/lesions/w/recurrent-bcc-04.jpg",
+    "description": "Recurrent BCC",
+    "source_page": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+    "disease": "skin_cancer",
+    "local_path": "skin_disease_dataset2222\\skin_cancer\\skin_cancer_0027.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/reactions/acd2.jpg",
+    "description": "Allergic contact dermatitis to rubber",
+    "source_page": "https://dermnetnz.org/topics/contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0000.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/reactions/acd4.jpg",
+    "description": "Allergic contact dermatitis to rubber",
+    "source_page": "https://dermnetnz.org/topics/contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0001.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/reactions/dermal-dermatitis1.jpg",
+    "description": "Dermal contact dermatitis",
+    "source_page": "https://dermnetnz.org/topics/contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0002.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Allergic-contact-dermatitis/allergic-contact-dermatitis-0004.jpg",
+    "description": "Acute weeping exudative allergic contact dermatitis due to a hair dye used on the beard",
+    "source_page": "https://dermnetnz.org/topics/allergic-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0003.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Allergic-contact-dermatitis/allergic-contact-dermatitis-0011.jpg",
+    "description": "Chronic lichenified allergic contact dermatitis due to leather in a sandal",
+    "source_page": "https://dermnetnz.org/topics/allergic-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0004.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Allergic-contact-dermatitis/allergic-contact-dermatitis-00002.jpg",
+    "description": "Allergic contact dermatitis due to a rubber accelerator (used in the rubber curing process)",
+    "source_page": "https://dermnetnz.org/topics/allergic-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0005.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Allergic-contact-dermatitis/allergic-contact-dermatitis-0029.jpg",
+    "description": "Acute allergic contact dermatitis due to lavender oil used on the pillow case to promote sleep",
+    "source_page": "https://dermnetnz.org/topics/allergic-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0006.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/acd-plaster.jpg",
+    "description": "What are the clinical features of allergic contact dermatitis?",
+    "source_page": "https://dermnetnz.org/topics/allergic-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0007.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/acdss.jpg",
+    "description": "What are the clinical features of allergic contact dermatitis?",
+    "source_page": "https://dermnetnz.org/topics/allergic-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0008.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/acdnic.jpg",
+    "description": "What are the clinical features of allergic contact dermatitis?",
+    "source_page": "https://dermnetnz.org/topics/allergic-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0009.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection/Allergic-contact-dermatitis/allergic-contact-dermatitis-0152.jpg",
+    "description": "Allergic contact dermatitis due to an adhesive in orthopaedic strapping",
+    "source_page": "https://dermnetnz.org/topics/allergic-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0010.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/reactions/acd3.jpg",
+    "description": "A positive patch test to a piece of a suspect rubber glove 48 hrs after application on the skin",
+    "source_page": "https://dermnetnz.org/topics/allergic-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0011.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/reactions/icd3.jpg",
+    "description": "Irritant contact dermatitis of the hand",
+    "source_page": "https://dermnetnz.org/topics/irritant-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0012.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/icd.jpg",
+    "description": "Irritant contact dermatitis of the hand",
+    "source_page": "https://dermnetnz.org/topics/irritant-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0013.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/s/icd5.jpg",
+    "description": "Irritant contact dermatitis of the hand",
+    "source_page": "https://dermnetnz.org/topics/irritant-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0014.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/doctors/follicular/images/top2.jpg",
+    "description": "Irritant dermatitis due to benzoyl peroxide",
+    "source_page": "https://dermnetnz.org/topics/irritant-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0015.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/toxAtop.jpg",
+    "description": "Atopic irritant hand dermatitis",
+    "source_page": "https://dermnetnz.org/topics/irritant-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0016.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/chemical-burn-107.jpg",
+    "description": "Acute irritant contact dermatitis",
+    "source_page": "https://dermnetnz.org/topics/irritant-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0017.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/icd4.jpg",
+    "description": "What are the clinical features of irritant contact dermatitis?",
+    "source_page": "https://dermnetnz.org/topics/irritant-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0018.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/dermatitis/s/icd6.jpg",
+    "description": "What are the clinical features of irritant contact dermatitis?",
+    "source_page": "https://dermnetnz.org/topics/irritant-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0019.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection-O/Hand-dermatitis/hand-dermatitis-00056.jpg",
+    "description": "What are the clinical features of irritant contact dermatitis?",
+    "source_page": "https://dermnetnz.org/topics/irritant-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0020.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/collection-O/Hand-dermatitis/hand-dermatitis-00057.jpg",
+    "description": "Irritant hand dermatitis",
+    "source_page": "https://dermnetnz.org/topics/irritant-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0021.jpg"
+  },
+  {
+    "url": "https://dermnetnz.org/assets/Uploads/colour/postinflamm5.jpg",
+    "description": "Postinflammatory hyperpigmentation following irritant hand dermatitis",
+    "source_page": "https://dermnetnz.org/topics/irritant-contact-dermatitis",
+    "disease": "contact_dermatitis",
+    "local_path": "skin_disease_dataset2222\\contact_dermatitis\\contact_dermatitis_0022.jpg"
+  }
+]
